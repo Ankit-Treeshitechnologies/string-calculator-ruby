@@ -16,7 +16,7 @@ To set up the String Calculator on your local machine, follow these steps:
 1. Clone the repository to your local machine:
    ```bash
    git clone https://github.com/Ankit-Treeshitechnologies/string-calculator-ruby.git
-   cd string-calculator
+   cd string-calculator-ruby
 
 2. Install the required gems using Bundler:
    ```bash
